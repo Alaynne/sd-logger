@@ -1,0 +1,21 @@
+
+<Mon Oct 04 12:23:31 BRT 2010><12:23:31,476 DEBUG AplicTest - Hello Debug>
+<Mon Oct 04 12:23:31 BRT 2010><12:23:31,506  INFO AplicTest - Hello Info>
+<Mon Oct 04 12:23:31 BRT 2010><12:23:31,510  WARN AplicTest - Hello Warn>
+<Mon Oct 04 12:23:31 BRT 2010><12:23:31,513 ERROR AplicTest - Hello Error>
+<Mon Oct 04 12:23:31 BRT 2010><12:23:31,517 FATAL AplicTest - Hello Fatal>
+<Mon Oct 04 12:27:39 BRT 2010><12:27:39,952 DEBUG AplicTest - Hello Debug>
+<Mon Oct 04 12:27:39 BRT 2010><12:27:39,982  INFO AplicTest - Hello Info>
+<Mon Oct 04 12:27:39 BRT 2010><12:27:39,988  WARN AplicTest - Hello Warn>
+<Mon Oct 04 12:27:39 BRT 2010><12:27:39,991 ERROR AplicTest - Hello Error>
+<Mon Oct 04 12:27:40 BRT 2010><12:27:39,995 FATAL AplicTest - Hello Fatal>
+<Mon Oct 04 12:29:22 BRT 2010><12:29:22,047 DEBUG AplicTest - Hello Debug>
+<Mon Oct 04 12:29:22 BRT 2010><12:29:22,075  INFO AplicTest - Hello Info>
+<Mon Oct 04 12:29:22 BRT 2010><12:29:22,079  WARN AplicTest - Hello Warn>
+<Mon Oct 04 12:29:22 BRT 2010><12:29:22,082 ERROR AplicTest - Hello Error>
+<Mon Oct 04 12:29:22 BRT 2010><12:29:22,085 FATAL AplicTest - Hello Fatal>
+<Mon Oct 04 15:28:56 BRT 2010><15:28:56,125 DEBUG AplicTest - Hello Debug>
+<Mon Oct 04 15:28:56 BRT 2010><15:28:56,186  INFO AplicTest - Hello Info>
+<Mon Oct 04 15:28:56 BRT 2010><15:28:56,189  WARN AplicTest - Hello Warn>
+<Mon Oct 04 15:28:56 BRT 2010><15:28:56,197 ERROR AplicTest - Hello Error>
+<Mon Oct 04 15:28:56 BRT 2010><15:28:56,205 FATAL AplicTest - Hello Fatal>
